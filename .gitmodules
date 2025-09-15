@@ -1,3 +1,4 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
 	url = git@github.com:CL-Monster/hbb_common.git
+	branch = cc
